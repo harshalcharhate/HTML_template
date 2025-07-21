@@ -177,3 +177,4 @@ The LAMP stack is one of the most popular and proven open-source stacks for host
 - PHP: Popular server-side scripting language for dynamic content.
 
 Together, these components provide a reliable, scalable, and cost-effective solution for web hosting — commonly used for WordPress, e-commerce, blogs, and custom PHP apps.
+#### done
